@@ -1,0 +1,29 @@
+# 构建产物
+publish/
+dist/
+bin/
+obj/
+archive/
+*.exe
+!build/*.exe
+
+# 日志
+logs/
+*.log
+
+# 环境与配置
+.env
+*.ini
+Sentinel.ini
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
