@@ -11,7 +11,13 @@
 
 ## 这是什么
 
-一款常驻 Windows 托盘的轻量安全工具，专门盯防 **SMB（445 端口）暴露到公网** 这一类风险，并提供一键处置。
+一款常驻Windows 托盘的轻量安全工具，专门盯防 **SMB（445 端口）暴露到公网** 这一类风险，并提供一键处置。
+
+## 下载
+
+最新版本：**[v1.0.0](https://github.com/ufo-maker/Sentinel-Ccufo/releases/latest)** ｜ [CNB 镜像](https://cnb.cool/FFUFO/Sentinel-Ccufo)
+
+直接下载 `Sentinel-Ccufo-Setup-1.0.0.exe`（44 MB，需管理员权限）
 
 它解决的是一个很具体、也很容易被误判的问题：
 
